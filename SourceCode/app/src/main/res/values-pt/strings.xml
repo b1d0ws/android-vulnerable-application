@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Vulnerable Application</string>
+    <string name="insecure_logging">Log Inseguro</string>
+    <string name="secret_area">Área Secreta</string>
+    <string name="under_construction">Em Construção</string>
+    <string name="password_vault">Cofre de Senhas</string>
+    <string name="employees">Funcionários</string>
+    <string name="webview">WebView</string>
+    <string name="developers_text">Essa área deve ser acessada apenas por desenvolvedores</string>
+    <string name="developer_credentials">Credenciais de Desenvolvedor:</string>
+    <string name="secret">developers123!</string>
+    <string name="authentication_message">Autenticação Completa</string>
+    <string name="save_credentials">Salvar Credenciais</string>
+    <string name="loading">Carregando</string>
+    <string name="rooted_device">Root Detectado</string>
+    <string name="not_rooted_device">Root NÃO Detectado</string>
+    <string name="webview_text">Insira a URL a ser acessada</string>
+    <string name="webview_access">Acessar</string>
+    <string name="under_construction_text">Em construção</string>
+    <string name="nothing_to_see">Não tem nada para ver aqui!</string>
+    <string name="pass">1337</string>
+    <string name="secretCode">xldSx1LxlPfqXpjw/UvaC7WqqfoxjX7uiECDnzLlIW8=</string>
+    <string name="this_area_is_under_construction">Essa área está sob construção</string>
+    <string name="hook_flag">Obtenha a flag com o botão abaixo!</string>
+    <string name="flag">CeOmkDGMSqwt9pPE23GV1A==</string>
+</resources>

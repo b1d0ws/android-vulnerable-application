@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/buttonInsecureLogging"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/insecure_logging"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonSecretArea"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/secret_area"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonToBeDone"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/under_construction"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonPasswordVault"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/password_vault"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonWebViewVuln"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/webview"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonRootBypass"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="Root Bypass"
+            android:backgroundTint="#278AA8"/>
+
+        <Button
+            android:id="@+id/buttonHookFlag"
+            android:layout_width="200dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="20dp"
+            android:text="Hook Flag"
+            android:backgroundTint="#278AA8"/>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

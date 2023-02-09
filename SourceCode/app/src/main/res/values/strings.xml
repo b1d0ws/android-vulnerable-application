@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Android Vulnerable Application</string>
+    <string name="insecure_logging">Insecure Logging</string>
+    <string name="secret_area">Secret Area</string>
+    <string name="under_construction">Under Construction</string>
+    <string name="password_vault">Password Vault</string>
+    <string name="employees">Employees</string>
+    <string name="webview">WebView</string>
+    <string name="developers_text">This area should be accessed only by developers</string>
+    <string name="developer_credentials">Developer credentials:</string>
+    <string name="secret">developers123!</string>
+    <string name="authentication_message">Authentication Completed</string>
+    <string name="save_credentials">Save Credentials</string>
+    <string name="loading">Loading</string>
+    <string name="rooted_device">Rooted Device</string>
+    <string name="not_rooted_device">Device Not Rooted</string>
+    <string name="webview_text">Insert the URL you want to access</string>
+    <string name="webview_access">Access</string>
+    <string name="under_construction_text">Under Construction</string>
+    <string name="nothing_to_see">There is nothing to see here!</string>
+    <string name="pass">1337</string>
+    <string name="secretCode">xldSx1LxlPfqXpjw/UvaC7WqqfoxjX7uiECDnzLlIW8=</string>
+    <string name="this_area_is_under_construction">This area is under construction</string>
+    <string name="hook_flag">Get the flag with the button below!</string>
+    <string name="flag">CeOmkDGMSqwt9pPE23GV1A==</string>
+</resources>
