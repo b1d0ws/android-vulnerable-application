@@ -12,7 +12,7 @@ At this point, we have the following challenges:
 * Root Bypass
 * Hook Flag
 
-### Instalation
+### Installation
 ```
 adb install ava.apk
 ```
