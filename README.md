@@ -1,4 +1,4 @@
-# AndroidVulnerableApplication
+# androidVulnerableApplication
 
 AVA (Android Vulnerable Application) is an application made to test your penetration tester skills on android.
 
